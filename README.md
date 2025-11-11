@@ -28,5 +28,5 @@ Se trabajó con **Python (Pandas y Matplotlib)**, realizando análisis y gráfic
 2. Ejecuta cada celda en orden para reproducir el análisis.  
 
 ## Autora
-**Rosalinda Kurisaki**  
+**Rosa**  
 Proyecto desarrollado para el **Challenge Data Science – Alura LATAM**.
