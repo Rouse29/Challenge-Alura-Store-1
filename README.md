@@ -25,7 +25,7 @@ Se trabajó con **Python (Pandas y Matplotlib)**, realizando análisis y gráfic
 
 ## Cómo ejecutar el proyecto
 1. Descarga el archivo `.ipynb` o abre directamente en Google Colab.  
-2. Ejecuta cada celda en orden para reproducir el análisis.  
+2. Ejecuta cada celda en orden para reproducir el análisis.
 
 ## Autora
 **Rosa**  
